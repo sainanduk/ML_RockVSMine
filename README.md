@@ -68,9 +68,6 @@ To use the machine learning model in a Python script, follow these steps:
 
 The project includes model evaluation metrics to assess the performance of the machine learning model. These metrics include accuracy, precision, recall, and F1 score.
 
-## Contribution Guidelines
-
-If you wish to contribute to the project, please follow the contribution guidelines outlined in the `CONTRIBUTING.md` file.
 
 ## License
 
